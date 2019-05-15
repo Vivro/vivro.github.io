@@ -1,2 +1,2 @@
-# vivro.github.io
-opis
+# gilek1.github.io
+mini project
