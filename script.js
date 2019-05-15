@@ -42,9 +42,9 @@ function testAPI() {
 
 function buildProfile(user) {
   let profile = `
-  <h3>Cześć ${user.name}!</h3>
-  <h3>ID: ${user.id}</h3>
-  <h3>Email: ${user.email}</h3>
+  <h3>Witam ${user.name}!</h3>
+  <h3>Twoje ID to: ${user.id}</h3>
+  <h3>a Email: ${user.email}</h3>
 `;
   document.getElementById("profile").innerHTML = profile;
 }
